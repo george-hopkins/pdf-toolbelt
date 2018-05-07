@@ -12,4 +12,4 @@
 
 ## Downloads
 
-You can find a precompiled version on [Circle CI](https://circleci.com/gh/george-hopkins/pdf-toolbelt/tree/master). Just select the latest build and download the file from the *Artifacts* tab.
+↳ [Releases](https://github.com/george-hopkins/pdf-toolbelt/releases)
